@@ -2,3 +2,4 @@ This is another
 Dog thought.
 They are cute
 End.
+New Dog Thought...
